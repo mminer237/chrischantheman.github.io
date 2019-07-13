@@ -2,4 +2,4 @@
 
 Personal blog of Chris Chan
 
-![profie pic](/pics/profile_chrischan.jpg)
+![profie pic](/pics/profile_chrischan.JPG)

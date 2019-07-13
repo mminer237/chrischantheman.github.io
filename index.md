@@ -3,3 +3,5 @@
 This is my new page!
 
 ![Profile pic](/assets/pics/linkin_profile_chrischan.jpg)
+
+can you see this pic?

@@ -1,4 +1,4 @@
-#Chris Chan
+# Chris Chan
 
 Reading List
 1. Zero to One

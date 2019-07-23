@@ -66,5 +66,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  
-  sidebar_image: "/images/demo/demo-portrait.jpg"

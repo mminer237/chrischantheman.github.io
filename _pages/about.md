@@ -5,13 +5,13 @@ title: About
 featured_image: /images/about/linkedin_profile_chrischan.jpg
 ---
 
-I'm currently living in San Jose and work at [Box Inc](https://www.box.com). I graduated from [UCSC](https://www.ucsc.edu/) with a degree in Computer Engineering. I've worked in the technology, finance & e-commerce industries over the span of my professional career in large and mid-size companies on various products & projects. I've traditionally been very good at execution, managing personalities & story-telling from my experience in project/program/product management. I'm currently attending [SCU](https://www.scu.edu/) for my MBA (class of '20). I plan to move towards startups in the near future.
+I'm currently living in San Jose and work at [Box Inc](https://www.box.com). I graduated from [UCSC](https://www.ucsc.edu/) with a degree in Computer Engineering. I've worked in the technology, finance & e-commerce industries over the span of my professional career in large and mid-size companies on various products & projects. I traditionally have been very good at execution, managing personalities & story-telling from my experience in project, program & technical product management. I'm currently attending [SCU](https://www.scu.edu/) for my MBA (class of '20). I plan to move towards startups in the near future.
 
-##Interests
+## Interests
 * Asking questions
 * Making things more efficient
 * History
-* Basketball, Golden State Warriors
+* Basketball (Golden State Warriors to be exact!)
 * Blockchain & Cryptocurrencies
 * All matters of food
   * Cooking & culture
@@ -24,5 +24,5 @@ I'm currently living in San Jose and work at [Box Inc](https://www.box.com). I g
 * Mentoring
 * Solar technology
 
-##Resume
+## Resume
 * [Linkedin Profile](https://www.linkedin.com/in/christopher-chan-7503157/)

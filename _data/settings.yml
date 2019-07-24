@@ -16,8 +16,8 @@ menu_settings:
       url: '/about'
     - title: 'Reading List'
       url: '/readinglist'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Projects'
+      url: '/projects/'
 
 grid_settings:
   grid_spacing: 10

@@ -5,8 +5,6 @@ subtitle: Content that I've personally read and want to share
 featured_image: /images/readinglist/library.jpg
 ---
 
-## Reading List
-
 1. Zero to One
 2. 4-Hour Work Week
 3. From Yao to Mao: 5000 Years of Chinese History

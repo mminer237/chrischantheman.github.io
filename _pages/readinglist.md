@@ -5,40 +5,40 @@ subtitle: Content that I've personally consumed and want to share with everyone
 featured_image: /images/readinglist/library.jpg
 ---
 
-## Entrepreneurship 
+### Entrepreneurship
 * Zero to One
 * Innovators Dilemma
 * The Hard Thing about Hard Things
 * The Lean Startup
 
-## Personal Growth
+### Personal Growth
 * 4-Hour Work Week
 * Mastery
 * Quiet
 
-## History
+### History
 * From Yao to Mao: 5000 Years of Chinese History
 
-## Food & Culture
+### Food & Culture
 * Kitchen Confidential
 * Fresh of the Boat: A Memoir
 
-## DevOps IT
+### DevOps IT
 * Phoenix Project
 * Accelerate by Jez Humble
 
-## Science Fiction
+### Science Fiction
 * Foundation
 * Sphere
 
-## Podcasts
+### Podcasts
 * [The Tim Ferris Show](https://rss.art19.com/tim-ferriss-show) -Long form interviews of top performers in their industry
 * [The David Chang Show](https://rss.art19.com/the-majordomo-podcast) -Show about the cross-section of food, culture & sports in America. Sometimes about what it's like to be Asian-American.
 * [Snacks Daily](http://feeds.feedburner.com/marketsnacks-daily) -Business news in a fun format
 * [a16z](http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss) -Can't get enough of these guys!
 * [The Joe Rogan Experience](http://joeroganexp.joerogan.libsynpro.com/rss) -Fringe thinker with cool guest stars
 
-## Blogs
+### Blogs
 * [My old blog](http://chrischantheman.blogspot.com/) -content is still relevant!
 * [a16z](https://a16z.com/) -Great to hear about what's going on at the top levels of the VC world
 * [Seth Godin](https://seths.blog/) -An inspirational quote a day keeps the laziness at bay

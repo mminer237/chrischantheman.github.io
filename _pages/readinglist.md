@@ -1,5 +1,5 @@
 ---
-title: Learning Content List
+title: Reading List
 subtitle: Content that I've personally consumed and want to share with everyone
 #description:
 featured_image: /images/readinglist/library.jpg

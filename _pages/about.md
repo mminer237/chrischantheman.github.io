@@ -26,3 +26,7 @@ I'm currently living in San Jose and work at [Box Inc](https://www.box.com). I g
 
 ## Resume
 * [Linkedin Profile](https://www.linkedin.com/in/christopher-chan-7503157/)
+
+## Contact Me
+* Msg me through [LinkedIn](https://www.linkedin.com/in/christopher-chan-7503157/)
+* Email christopher dot yh dot chan at gmail dot com 

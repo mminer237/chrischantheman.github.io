@@ -1,7 +1,7 @@
 ---
 title: 'Food Waste in the US'
 date: 2018-06-03 00:00:00
-featured_image: '/images/latest/20190603_01.jpg'
+featured_image: '/images/latest/20180603_01.jpg'
 excerpt: How to define food waste and how bad is it?
 ---
 
@@ -28,6 +28,6 @@ Why does this happen? I decided to do some research of my own on this matter and
 * Restaurant food doesn't have an expiration so may sit in the fridge for a week but you don't really know if it's still edible.
 * Produce or prepared food is left in the fridge and forgotten.
 
-I've made some assumptions about what type of solutions these users would be open to using and paying for that I'm testing and validating. I'll post some of that when I've successfully tested some of those hypothesis. 
+I've made some assumptions about what type of solutions these users would be open to using and paying for that I'm testing and validating. I'll post some of that when I've successfully tested some of those hypothesis.
 
 I believe there is a very important problem to be solved here that not many people are paying attention to: food waste.  

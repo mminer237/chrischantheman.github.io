@@ -1,19 +1,23 @@
 ---
-title: 'Parallels in Food, Life & Work'
-date: 2016-04-08 00:00:00
-featured_image: '/images/latest/20160408_01.jpg'
+title: 'New Year, New Goals'
+date: 2015-12-31 00:00:00
+featured_image: '/images/latest/20151231_01.jpg'
 excerpt:
 ---
 
-Humans love to put other humans into boxes (proverbial). It's black and white, no ambiguity, clean...makes us feel we have a good handle on things. Everything about a person does not fit into nice little square workflow boxes as much as we would want them to.
+I actually started my new goals back in September. Weird time to pick new goals but if you go back to my [First Post](http://chrischantheman.blogspot.com/2014/08/first-post.html), you'll see why.
 
-This is where I feel gauging a person in multiple faucets can help draw out that workflow. The character and intelligence of a person stems from having well-rounded experiences and decisions made. Drawing comparisons from different faucets of life and how a person acts or thinks in those situations is key to me.
+As for my new goals, you can check it out here:
+![](/images/latest/20151231_02.jpg)
 
-### Examples:
-1. Food - Are there any cuisines you truly dislike? Or maybe you only like to eat one type of cuisine? Why is that? If there's a whole culture that eats it, do you think there's something wrong with them or you're just close-minded?
-2. Life - You don't like to associate yourself with a particular race of people. Why is that? Maybe your life experiences have led you to compartmentalize all people of that race because it's easier to deal with daily? Maybe that's how things are in your neighborhood and you're just going with the flow?
-3. Work - Are there people at work you look down upon or because of their title, accent or gender? Maybe they slighted you or there are reasons that can't be discussed in the open that bring you to put people in an unfavorable box.
+To be honest, I haven't made much headway on many except for #1. More to come on that in a later post...
 
-The world is nuanced with so many shades of grey so I cannot condemn someone for the same reasons...but I can draw on multiple comparisons.
+I've been scrolling down my Facebook newsfeed the last couple days and noticed an abrupt amount of articles related to getting back in the gym, setting new years resolutions, act now-don't complain...etc. I do appreciate these articles and it's logical to start seeing these types of articles around this time of year, but if you're just thinking about your goals at the end of the year because someone/thing told you to think about it, you're already 1 step behind...but not too late. Start today and try to achieve them with a sense of urgency!
+
+This will be my 2nd iteration on goal-setting and the single most important thing I've learned is, although a bit cliche, it's about the journey and not the goal. Reach for the heavens and hopefully you'll get to the tree tops. My goals from last year pushed me to not settle on my current role at work, led me to move to LA and move back in a matter of 6 months, took me to different lands to meet people who would influence me on a deep level...the list goes on. Setting goals do work although the outcome may not be what you intended. Whether the outcome is good or bad, one thing is certain, you will grow as a person.
+
+I'm reminded of another article this amazing woman sent me awhile back that very much captures the spirit of what I'm trying to convey. I'll leave you with this: [21 Incredible Life Lessons From Anthony Bourdain on Life, Relationships, Travel and Most Importantly Food](http://thoughtcatalog.com/koty-neelis/2015/05/21-incredible-life-lessons-from-anthony-bourdain-on-life-relationships-travel-and-most-importantly-food/).
+
+Happy New Year and stay hungry, stay foolish.
 
 -CCTM

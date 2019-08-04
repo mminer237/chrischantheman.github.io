@@ -2,7 +2,7 @@
 title: 'New Year, New Goals'
 date: 2015-12-31 00:00:00
 featured_image: '/images/latest/20151231_01.jpg'
-excerpt:
+excerpt: Same goals, different year?
 ---
 
 I actually started my new goals back in September. Weird time to pick new goals but if you go back to my [First Post](http://chrischantheman.blogspot.com/2014/08/first-post.html), you'll see why.

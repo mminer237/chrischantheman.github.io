@@ -2,7 +2,7 @@
 title: 'Parallels in Food, Life & Work'
 date: 2016-04-08 00:00:00
 featured_image: '/images/latest/20160408_01.jpg'
-excerpt:
+excerpt: Multiple data points required
 ---
 
 Humans love to put other humans into boxes (proverbial). It's black and white, no ambiguity, clean...makes us feel we have a good handle on things. Everything about a person does not fit into nice little square workflow boxes as much as we would want them to.

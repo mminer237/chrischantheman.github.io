@@ -1,23 +1,24 @@
 ---
-title: 'Raadmaps'
-date: 2014-09-21 00:00:00
-featured_image: '/images/latest/20140921_01.jpg'
-excerpt: Product Idea Mockup
+title: 'First Post'
+date: 2014-08-23 00:00:00
+featured_image: '/images/latest/20140823_01.jpg'
+excerpt: So many dreams and goals yet so little time...
 ---
 
-I recently completed a [Product Management](https://generalassemb.ly/education/product-management) course that's designed to help you create your own product and/or give you the necessary tools to become a Product Manager.  The class was immensely insightful and forced me to go through the motions of analytical and detailed thinking that's involved to put together a worthy business plan (business model, KPI's, MVP, mock-ups...etc).  I still feel it needs some massaging but the first iteration was solid enough IMO.
+So many dreams and goals yet so little time...
 
-The idea I used for my product is something I've been thinking about the last year or so and decided to apply to this class.  I call it, RaadMaps.
+In my 20's, I had been scratching my head in between happy hours and weekend boozing on what I wanted to do for the rest of my life.  So over the last 3 years, I came up with specific goals that I would set for myself to accomplish: become a project manager, own a home, move to SF, get my MBA.  I've accomplished all but the MBA so far.  Many would think that's good enough and I'd be able to live comfortably this way the rest of my life.  The problem is after I had accomplished these goals, I was stuck wondering what's next?
 
-My goal is to create an inter-network charge station location platform where charge networks can broadcast locations, availability and prices of their charge stations by June of 2016.
-EV charging logistics are not a hinderance to wide adoption of RaadMaps.
+I realized that these goals that I set for myself were short to medium term but lacked the clarity of direction for the long term.  Why become a project manager?  Why own a home or go for your MBA?  These were all goals I set in my mind to stabilize my financial security which is very important to me.  That's probably why I didn't pursue the MBA route quite as stubbornly, since it didn't offer any immediate tangible benefits and would actually put me in debt .  But what's my end game?  What's my life purpose?  What do I want people to remember by when I pass?  
 
+I read an [article](http://www.businessinsider.com/ryan-allis-2014-8?utm_content=bufferc1deb&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer#-18) online a couple weeks ago which help put my dreams into an actionable and accountable list that I'm letting drive my goals for the next year.  This in turn sparked my desire to start this blog...my collection of ideas and stories that will ultimately paint a picture of what my end game will look like.
 
-### Assumptions:
-1. EV (eletric vehicle) owners have an issue with finding charge stations nearby with the apps they use already.
-2. RaadMaps app can easily connect with various charge networks to conduct payments and logistics for charging.
-3. The EV market is large/mature enough to gain mainstream adoption for profitability.
+Ryan Allis' article states you should create a one-pager with your specific goals for the next 1 year, 10 years and lifetime.  I took a bit of time and came up with this list that I both signed and framed.
 
-I'll have to test those assumptions before I put any real effort into this, but here's a peek at a mock-up of what one of the screens would look like on an iPhone :)
+![](/images/latest/20140823_02.jpg)
 
-![](/images/latest/20140921_02.jpg)
+Too ambitious?  Perhaps, but I'd rather try reaching for the stars than not try at all.  With all that said, I'll be posting my idea that I've been working on over the course of the last couple months.  
+
+Stay hungry, stay foolish.
+
+-CCTM
